@@ -1,16 +1,27 @@
-# 👋 Hello, I'm gangg111
 
-Welcome to my engineering profile. I focus on high-performance embedded systems and AI.
+# 👋 Cześć, jestem DriftKing
 
-## 🛠️ Featured Projects
-
-### 1. RP2350 UART Crash Diagnostics
-A professional HardFault handler for the new Raspberry Pi Pico 2. 
-* **Link:** [View Project](https://github.com/gangg111/RP2350-UART-Crash-Diagnostics)
-
-### 2. Lektor AI
-Advanced voice synthesis and audio processing project.
-* **Link:** [View Project](https://github.com/gangg111/Lektor_AI)
+Jestem inżynierem zajmującym się programowaniem **C++**, systemami **FPGA (Verilog)** oraz rozwiązaniami wbudowanymi dla **RP2350 (Pico 2)**. 
 
 ---
-*Building the future with RP2350 and AI.*
+
+## 🚀 Moje Projekty
+
+### 1. RP2350 UART Crash Diagnostics
+Profesjonalny system diagnostyczny HardFault dla Raspberry Pi Pico 2. Przechwytuje stan rejestrów przy awarii.
+* **Status:** Publiczny
+* **Technologia:** C++, Pico SDK
+
+[Pusta linia dla przejrzystości]
+
+### 2. Lektor AI
+Projekt syntezy mowy i przetwarzania dźwięku opartego na sztucznej inteligencji.
+
+---
+
+## 🛠️ Stack Techniczny
+* **Hardware:** RP2350 (Pico 2), Tang Nano (FPGA)
+* **Software:** C++, Verilog, Python, KiCad
+
+---
+*Zapraszam do śledzenia moich postępów w projekcie n64_pico!*
