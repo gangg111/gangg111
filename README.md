@@ -1,7 +1,7 @@
 
 # 👋 Cześć, jestem DriftKing
 
-Jestem inżynierem zajmującym się programowaniem **C++**, systemami **FPGA (Verilog)** oraz rozwiązaniami wbudowanymi dla **RP2350 (Pico 2)**. 
+Zajmuję się programowaniem **C++**, systemami **FPGA (Verilog)** oraz rozwiązaniami wbudowanymi dla **RP2350 (Pico 2)**. 
 
 ---
 
