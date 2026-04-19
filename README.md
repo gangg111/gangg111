@@ -1,5 +1,6 @@
 
 # 👋 Cześć, jestem DriftKing
+[![Discord](https://img.shields.io/badge/Discord-Dołącz_do_serwera-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/D3mUWyqh)
 
 Zajmuję się programowaniem **C++**, systemami **FPGA (Verilog)** oraz rozwiązaniami wbudowanymi dla **RP2350 (Pico 2)**. 
 
